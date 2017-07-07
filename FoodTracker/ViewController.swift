@@ -14,6 +14,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     
     @IBOutlet weak var nameTextField: UITextField!
     @IBOutlet weak var mealNameLabel: UILabel!
+    @IBOutlet weak var photoImageView: UIImageView!
     
     
     //MARK: - Actions
